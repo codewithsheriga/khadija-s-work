@@ -1,0 +1,17 @@
+body{
+    margin: 300px;
+}
+
+Table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+Table , tr, td{   
+    border: 1px solid blue;
+}
+
+#button{
+    margin-left: 100px;
+    margin-right: 100px;
+}
